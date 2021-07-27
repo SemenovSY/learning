@@ -1,0 +1,19 @@
+{
+  "name": "testclone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SemenovSY/learning.git"
+  },
+  "author": "Sergey Semenov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SemenovSY/learning/issues"
+  },
+  "homepage": "https://github.com/SemenovSY/learning#readme"
+}
